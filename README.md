@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/AnkitShome/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AnkitShome/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AnkitShome/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Graph
 |  |
@@ -29,10 +30,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AnkitShome/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AnkitShome/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3831-find-x-value-of-array-i](https://github.com/AnkitShome/Leetcode/tree/master/3831-find-x-value-of-array-i) |
 ## Math
 |  |
 | ------- |
 | [3831-find-x-value-of-array-i](https://github.com/AnkitShome/Leetcode/tree/master/3831-find-x-value-of-array-i) |
+## Matrix
+|  |
+| ------- |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AnkitShome/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 <!---LeetCode Topics End-->
