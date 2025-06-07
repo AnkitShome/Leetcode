@@ -3,24 +3,18 @@ public:
     string clearStars(string s) {
         int n=s.size();
         vector<int> don(n);
-        vector<set<int>> ind(26);
-        vector<int> freq;
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
         for(int i=0;i<n;i++){
-            if(s[i]=='*')   {freq.push_back(i);continue;}
-            ind[s[i]-'a'].insert(i);
-        }
-        for(auto i:freq){
-            don[i]=1;
-            for(int j=0;j<26;j++){
-                auto it=ind[j].upper_bound(i);
-                if(it==ind[j].begin()){continue;}
-                it--;
-                int idx =*it;
-                don[idx]=1;
-                ind[j].erase(it);
-                break;
+            if(s[i]=='*')   {
+                don[i]=1;
+                auto it=pq.top();
+                pq.pop();
+                don[-it.second]=1;
+                continue;
             }
+            pq.push({s[i]-'a',-i});
         }
+     
         string res="";
         for(int i=0;i<n;i++){
             if(don[i])  continue;
