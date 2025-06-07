@@ -5,7 +5,7 @@ public:
         vector<int> don(n);
         vector<set<int>> ind(26);
         vector<int> freq;
-        for(int i=n-1;i>=0;i--){
+        for(int i=0;i<n;i++){
             if(s[i]=='*')   {freq.push_back(i);continue;}
             ind[s[i]-'a'].insert(i);
         }
@@ -16,8 +16,8 @@ public:
                 if(it==ind[j].begin()){continue;}
                 it--;
                 int idx =*it;
-                ind[j].erase(it);
                 don[idx]=1;
+                ind[j].erase(it);
                 break;
             }
         }
