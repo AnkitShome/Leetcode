@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-    set<string> mp;
+    unordered_set<string> mp;
     int f(int ind,string s,vector<int>&dp){
         int n=s.size();
         if(ind==n){
