@@ -23,8 +23,19 @@ public:
         m=matrix[0].size();
         dp.resize(n,vector<int>(m,-1));
 
-
-        int ans=f(0,0,matrix);
+        for(int i=n-1;i>=0;i--){
+            for(int j=m-1;j>=0;j--){
+                if(i==n-1 or j==m-1){
+                    if(matrix[i][j]=='1')   dp[i][j]=1;
+                    else    dp[i][j]=0;
+                }
+                else if(matrix[i][j]=='0')   dp[i][j]=0;
+                else{
+                    dp[i][j]=min({dp[i+1][j],dp[i][j+1],dp[i+1][j+1]})+1;
+                }
+            }
+        }
+        int ans=0;
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 ans=max(ans,dp[i][j]);
