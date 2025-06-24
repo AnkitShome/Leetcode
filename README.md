@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/AnkitShome/Leetcode/tree/master/0139-word-break) |
 | [0472-concatenated-words](https://github.com/AnkitShome/Leetcode/tree/master/0472-concatenated-words) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/AnkitShome/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/AnkitShome/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/AnkitShome/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AnkitShome/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AnkitShome/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AnkitShome/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/AnkitShome/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AnkitShome/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/AnkitShome/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AnkitShome/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Greedy
 |  |
