@@ -7,10 +7,8 @@ public:
            if(nums[i]==key) st.insert(i);
         }
         set<int> dist;
-        for(int i=0;i<n;i++){
-            for(auto j:st){
-                if(abs(i-j)<=k) dist.insert(i);
-            }
+        for(auto j:st){
+            for(int i=max(0,j-k);i<=min(n-1,j+k);i++)   dist.insert(i);
         }
 
         vector<int> ans(dist.begin(),dist.end());
