@@ -18,7 +18,6 @@ public:
         string res="";
         while(i<n){
             int next=NSE[i];
-            cout<<i<<" "<<next<<" "<<k<<endl;
             if((next-i)<=k) {k-=(next-i);i=next;continue;}
             res+=num[i];
             i++;  
