@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AnkitShome/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AnkitShome/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/AnkitShome/Leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AnkitShome/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/AnkitShome/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2227-sum-of-subarray-ranges](https://github.com/AnkitShome/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AnkitShome/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AnkitShome/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/AnkitShome/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/AnkitShome/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AnkitShome/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/AnkitShome/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AnkitShome/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AnkitShome/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -223,12 +225,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AnkitShome/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AnkitShome/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/AnkitShome/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 ## Sorting
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/AnkitShome/Leetcode/tree/master/0721-accounts-merge) |
 | [1308-smallest-string-with-swaps](https://github.com/AnkitShome/Leetcode/tree/master/1308-smallest-string-with-swaps) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AnkitShome/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AnkitShome/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2505-number-of-good-paths](https://github.com/AnkitShome/Leetcode/tree/master/2505-number-of-good-paths) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/AnkitShome/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
