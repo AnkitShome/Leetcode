@@ -11,7 +11,6 @@ public:
                 if(l>=j) j=l+1;
             }
             vis[s[i]]=i;
-            cout<<i<<" "<<j<<endl;
             ans=max(ans,i-j+1);
             i++;
         }
