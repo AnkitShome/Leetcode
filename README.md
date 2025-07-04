@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/AnkitShome/Leetcode/tree/master/0029-divide-two-integers) |
 | [0464-can-i-win](https://github.com/AnkitShome/Leetcode/tree/master/0464-can-i-win) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/AnkitShome/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/AnkitShome/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/AnkitShome/Leetcode/tree/master/0029-divide-two-integers) |
 | [0464-can-i-win](https://github.com/AnkitShome/Leetcode/tree/master/0464-can-i-win) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AnkitShome/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/AnkitShome/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AnkitShome/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3831-find-x-value-of-array-i](https://github.com/AnkitShome/Leetcode/tree/master/3831-find-x-value-of-array-i) |
 ## Matrix
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/AnkitShome/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/AnkitShome/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/AnkitShome/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Database
 |  |
 | ------- |
