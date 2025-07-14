@@ -18,10 +18,10 @@ public:
         void unite(int a,int b){
             int pa=find(a);
             int pb=find(b);
-            if(a==b)    return;
-            if(a<b) swap(a,b);
-            parent[b]=a;
-            if(size[a]==size[b])    size[a]++;
+            if(pa==pb)    return;
+            if(size[pa]<size[pb]) swap(pa,pb);
+            parent[pb]=pa;
+            size[pa]++;
         }
 
     };
