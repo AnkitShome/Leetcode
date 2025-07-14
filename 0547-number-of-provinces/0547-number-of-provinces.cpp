@@ -31,20 +31,13 @@ public:
         
         DSU dsu(n);
         
+        int count=n;
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
-                if(isConnected[i][j]==1){
+                if(isConnected[i][j]==1 and dsu.find(i)!=dsu.find(j)){
                     dsu.unite(i,j);
+                    count--;
                 }
-            }
-        }
-        int count=0;
-        set<int> st;
-        for(int i=0;i<n;i++){
-            int par=dsu.find(i);
-            if(!st.count(par)){
-                st.insert(par);
-                count++;
             }
         }
         return count;
