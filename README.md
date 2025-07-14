@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/AnkitShome/Leetcode/tree/master/0464-can-i-win) |
 | [0472-concatenated-words](https://github.com/AnkitShome/Leetcode/tree/master/0472-concatenated-words) |
 | [0518-coin-change-ii](https://github.com/AnkitShome/Leetcode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/AnkitShome/Leetcode/tree/master/0542-01-matrix) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/AnkitShome/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/AnkitShome/Leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/AnkitShome/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/AnkitShome/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/AnkitShome/Leetcode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/AnkitShome/Leetcode/tree/master/0721-accounts-merge) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/AnkitShome/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AnkitShome/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AnkitShome/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/AnkitShome/Leetcode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/AnkitShome/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/AnkitShome/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/AnkitShome/Leetcode/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/AnkitShome/Leetcode/tree/master/0735-asteroid-collision) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/AnkitShome/Leetcode/tree/master/0221-maximal-square) |
+| [0542-01-matrix](https://github.com/AnkitShome/Leetcode/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/AnkitShome/Leetcode/tree/master/1036-rotting-oranges) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AnkitShome/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Hash Table
