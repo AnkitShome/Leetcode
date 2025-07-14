@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/AnkitShome/Leetcode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/AnkitShome/Leetcode/tree/master/0721-accounts-merge) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/AnkitShome/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0960-minimize-malware-spread](https://github.com/AnkitShome/Leetcode/tree/master/0960-minimize-malware-spread) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/AnkitShome/Leetcode/tree/master/0547-number-of-provinces) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/AnkitShome/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0960-minimize-malware-spread](https://github.com/AnkitShome/Leetcode/tree/master/0960-minimize-malware-spread) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AnkitShome/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/AnkitShome/Leetcode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/AnkitShome/Leetcode/tree/master/0721-accounts-merge) |
 | [0960-minimize-malware-spread](https://github.com/AnkitShome/Leetcode/tree/master/0960-minimize-malware-spread) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/AnkitShome/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0472-concatenated-words](https://github.com/AnkitShome/Leetcode/tree/master/0472-concatenated-words) |
+| [0547-number-of-provinces](https://github.com/AnkitShome/Leetcode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/AnkitShome/Leetcode/tree/master/0721-accounts-merge) |
 | [0960-minimize-malware-spread](https://github.com/AnkitShome/Leetcode/tree/master/0960-minimize-malware-spread) |
 | [1308-smallest-string-with-swaps](https://github.com/AnkitShome/Leetcode/tree/master/1308-smallest-string-with-swaps) |
