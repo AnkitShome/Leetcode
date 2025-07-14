@@ -6,7 +6,6 @@ public:
     int orangesRotting(vector<vector<int>>& grid) {
         int n=grid.size();
         int m=grid[0].size();
-        vector<vector<int>> vis(n,vector<int>(m));
         int eva=0;
         queue<array<int,3>> q;
         
@@ -15,7 +14,6 @@ public:
                 if(grid[i][j]==1)   eva++;
                 if(grid[i][j]==2){
                     q.push({i,j,0});
-                    vis[i][j]=1;
                 }
             }
 
@@ -29,10 +27,10 @@ public:
             for(int i=0;i<4;i++){
                 int nx=x+dx[i];
                 int ny=y+dy[i];
-                if(nx<0 or nx>=n or ny<0 or ny>=m or vis[nx][ny] or grid[nx][ny]!=1)
+                if(nx<0 or nx>=n or ny<0 or ny>=m or grid[nx][ny]!=1)
                     continue;
                 
-                vis[nx][ny]=1;
+                grid[nx][ny]=2;
                 eva--;
                 q.push({nx,ny,time+1});
             }
