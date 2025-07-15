@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-shortest-path-visiting-all-nodes](https://github.com/AnkitShome/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0960-minimize-malware-spread](https://github.com/AnkitShome/Leetcode/tree/master/0960-minimize-malware-spread) |
 | [1036-rotting-oranges](https://github.com/AnkitShome/Leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/AnkitShome/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1308-smallest-string-with-swaps](https://github.com/AnkitShome/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AnkitShome/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AnkitShome/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/AnkitShome/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1036-rotting-oranges](https://github.com/AnkitShome/Leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/AnkitShome/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1073-number-of-enclaves](https://github.com/AnkitShome/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1308-smallest-string-with-swaps](https://github.com/AnkitShome/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AnkitShome/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AnkitShome/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/AnkitShome/Leetcode/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/AnkitShome/Leetcode/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/AnkitShome/Leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/AnkitShome/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AnkitShome/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Hash Table
 |  |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/AnkitShome/Leetcode/tree/master/0721-accounts-merge) |
 | [0960-minimize-malware-spread](https://github.com/AnkitShome/Leetcode/tree/master/0960-minimize-malware-spread) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/AnkitShome/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1073-number-of-enclaves](https://github.com/AnkitShome/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1308-smallest-string-with-swaps](https://github.com/AnkitShome/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/AnkitShome/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2505-number-of-good-paths](https://github.com/AnkitShome/Leetcode/tree/master/2505-number-of-good-paths) |
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AnkitShome/Leetcode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/AnkitShome/Leetcode/tree/master/0721-accounts-merge) |
 | [0960-minimize-malware-spread](https://github.com/AnkitShome/Leetcode/tree/master/0960-minimize-malware-spread) |
+| [1073-number-of-enclaves](https://github.com/AnkitShome/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1308-smallest-string-with-swaps](https://github.com/AnkitShome/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/AnkitShome/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Monotonic Stack
