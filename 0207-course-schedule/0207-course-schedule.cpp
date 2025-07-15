@@ -16,10 +16,10 @@ public:
             if(indegree[i]==0)  {q.push(i);}
         }
 
-        vector<int> topo;
+        int topo=0;
         while(!q.empty()){
             auto u=q.front();q.pop();
-            topo.push_back(u);
+            topo++;
             for(auto v:adj[u]){
                 indegree[v]--;
                 if(!indegree[v]){
@@ -28,7 +28,7 @@ public:
             }
         }
 
-        if(topo.size()==n)  return true;
+        if(topo==n)  return true;
         return false;
     }
 };
