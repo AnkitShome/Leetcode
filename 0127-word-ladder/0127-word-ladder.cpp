@@ -13,6 +13,7 @@ public:
                 for(char x='a';x<='z';x++){
                     string newWord=word;
                     newWord[i]=x;
+                    if(newWord==word)   continue;
                     if(st.count(newWord)){
                         st.erase(newWord);
                         q.push({step+1,newWord});
