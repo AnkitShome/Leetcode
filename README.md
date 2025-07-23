@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/AnkitShome/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/AnkitShome/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AnkitShome/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/AnkitShome/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/AnkitShome/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AnkitShome/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AnkitShome/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/AnkitShome/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/AnkitShome/Leetcode/tree/master/0735-asteroid-collision) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/AnkitShome/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/AnkitShome/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/AnkitShome/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2227-sum-of-subarray-ranges](https://github.com/AnkitShome/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AnkitShome/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/AnkitShome/Leetcode/tree/master/0402-remove-k-digits) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/AnkitShome/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AnkitShome/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/AnkitShome/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AnkitShome/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
