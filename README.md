@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AnkitShome/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/AnkitShome/Leetcode/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/AnkitShome/Leetcode/tree/master/0221-maximal-square) |
+| [0233-number-of-digit-one](https://github.com/AnkitShome/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0312-burst-balloons](https://github.com/AnkitShome/Leetcode/tree/master/0312-burst-balloons) |
 | [0464-can-i-win](https://github.com/AnkitShome/Leetcode/tree/master/0464-can-i-win) |
 | [0472-concatenated-words](https://github.com/AnkitShome/Leetcode/tree/master/0472-concatenated-words) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AnkitShome/Leetcode/tree/master/0029-divide-two-integers) |
+| [0233-number-of-digit-one](https://github.com/AnkitShome/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0464-can-i-win](https://github.com/AnkitShome/Leetcode/tree/master/0464-can-i-win) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AnkitShome/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AnkitShome/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/AnkitShome/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0233-number-of-digit-one](https://github.com/AnkitShome/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/AnkitShome/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/AnkitShome/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Database
