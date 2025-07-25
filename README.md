@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/AnkitShome/Leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AnkitShome/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AnkitShome/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1813-maximum-erasure-value](https://github.com/AnkitShome/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/AnkitShome/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2227-sum-of-subarray-ranges](https://github.com/AnkitShome/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AnkitShome/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/AnkitShome/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AnkitShome/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AnkitShome/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1813-maximum-erasure-value](https://github.com/AnkitShome/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2505-number-of-good-paths](https://github.com/AnkitShome/Leetcode/tree/master/2505-number-of-good-paths) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/AnkitShome/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AnkitShome/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/AnkitShome/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AnkitShome/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AnkitShome/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1813-maximum-erasure-value](https://github.com/AnkitShome/Leetcode/tree/master/1813-maximum-erasure-value) |
 ## Monotonic Queue
 |  |
 | ------- |
