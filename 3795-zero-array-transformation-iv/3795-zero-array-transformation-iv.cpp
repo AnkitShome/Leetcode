@@ -1,35 +1,32 @@
 class Solution {
 public:
     int n;
-    
-    int f(int ind,int i,int num,vector<vector<int>>& dp,vector<vector<int>>& queries){
-        if(num==0)  return ind;
-        if(ind==n)  return 1e9;
-
-        if(dp[ind][num]!=-1)    return dp[ind][num];
-
-        int skip=f(ind+1,i,num,dp,queries);
-        int take=1e9;
-        
-        int l = queries[ind][0];
-        int r = queries[ind][1];
-        int v = queries[ind][2];
-
-
-        if(num>=v and i>=l and i<=r){
-            take=f(ind+1,i,num-v,dp,queries);
-        }
-        return dp[ind][num]=min(take,skip);
-
-    }
-
     int minZeroArray(vector<int>& nums, vector<vector<int>>& queries) {
         n=queries.size();
         int trophy=0;
         for(int i=0;i<nums.size();i++){
             int num=nums[i];
-            vector<vector<int>> dp(n,vector<int>(num+1,-1));
-            int res=f(0,i,num,dp,queries);
+            vector<vector<int>> dp(n+1,vector<int>(num+1,1e9));
+
+            for(int ind=0;ind<=n;ind++)  dp[ind][0]=ind;
+
+            for(int ind=n-1;ind>=0;ind--){
+                for(int val=1;val<=num;val++){
+                    int skip=dp[ind+1][val];
+                    int take=1e9;
+                    
+                    int l = queries[ind][0];
+                    int r = queries[ind][1];
+                    int v = queries[ind][2];
+
+
+                    if(val>=v and i>=l and i<=r){
+                        take=dp[ind+1][val-v];
+                    }
+                    dp[ind][val]=min(take,skip);
+                }
+            }
+            int res=dp[0][num];
             trophy=max(trophy,res);     
             if(trophy>=1e9) return -1;
         }
