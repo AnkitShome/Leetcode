@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/AnkitShome/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2505-number-of-good-paths](https://github.com/AnkitShome/Leetcode/tree/master/2505-number-of-good-paths) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/AnkitShome/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3750-closest-equal-element-queries](https://github.com/AnkitShome/Leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AnkitShome/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3831-find-x-value-of-array-i](https://github.com/AnkitShome/Leetcode/tree/master/3831-find-x-value-of-array-i) |
 ## Math
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2505-number-of-good-paths](https://github.com/AnkitShome/Leetcode/tree/master/2505-number-of-good-paths) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/AnkitShome/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AnkitShome/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3750-closest-equal-element-queries](https://github.com/AnkitShome/Leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AnkitShome/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AnkitShome/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AnkitShome/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/AnkitShome/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AnkitShome/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/AnkitShome/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
+| [3750-closest-equal-element-queries](https://github.com/AnkitShome/Leetcode/tree/master/3750-closest-equal-element-queries) |
 ## Sorting
 |  |
 | ------- |
