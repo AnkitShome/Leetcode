@@ -17,28 +17,10 @@ public:
 
         for(int d=0;d<=limit;d++){
             int newTight=tight and (d==limit);
+            int newStarted=started or (d>0);
+            int newOne=one+(d==1?1:0);
 
-            if(!started){
-                if(d==0){
-                    ans+=f(pos+1,newTight,0,0,digits,n,dp);
-                }
-                else{
-                    if(d==1){
-                        ans+=f(pos+1,newTight,1,one+1,digits,n,dp);
-                    }
-                    else{
-                        ans+=f(pos+1,newTight,1,one,digits,n,dp);
-                    }
-                }
-            }
-            else{
-                if(d==1){
-                    ans+=f(pos+1,newTight,1,one+1,digits,n,dp);
-                }
-                else{
-                    ans+=f(pos+1,newTight,1,one,digits,n,dp);
-                }
-            }
+           ans += f(pos + 1, newTight, newStarted, newOne, digits, n, dp);
         }
 
         return dp[key]=ans;
