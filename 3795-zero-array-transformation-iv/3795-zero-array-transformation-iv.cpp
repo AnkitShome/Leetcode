@@ -31,7 +31,6 @@ public:
             vector<vector<int>> dp(n,vector<int>(num+1,-1));
             int res=f(0,i,num,dp,queries);
             trophy=max(trophy,res);     
-            cout<<res<<endl;
             if(trophy>=1e9) return -1;
         }
         return trophy;
