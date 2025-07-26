@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AnkitShome/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3795-zero-array-transformation-iv](https://github.com/AnkitShome/Leetcode/tree/master/3795-zero-array-transformation-iv) |
 | [3831-find-x-value-of-array-i](https://github.com/AnkitShome/Leetcode/tree/master/3831-find-x-value-of-array-i) |
+| [3886-count-number-of-trapezoids-i](https://github.com/AnkitShome/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
 ## Math
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/AnkitShome/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AnkitShome/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3831-find-x-value-of-array-i](https://github.com/AnkitShome/Leetcode/tree/master/3831-find-x-value-of-array-i) |
+| [3886-count-number-of-trapezoids-i](https://github.com/AnkitShome/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
 ## Matrix
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AnkitShome/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AnkitShome/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AnkitShome/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3886-count-number-of-trapezoids-i](https://github.com/AnkitShome/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
 ## String
 |  |
 | ------- |
@@ -366,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AnkitShome/Leetcode/tree/master/0207-course-schedule) |
+## Geometry
+|  |
+| ------- |
+| [3886-count-number-of-trapezoids-i](https://github.com/AnkitShome/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
 <!---LeetCode Topics End-->
