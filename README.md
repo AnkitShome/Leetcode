@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AnkitShome/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2504-find-all-good-indices](https://github.com/AnkitShome/Leetcode/tree/master/2504-find-all-good-indices) |
 | [2505-number-of-good-paths](https://github.com/AnkitShome/Leetcode/tree/master/2505-number-of-good-paths) |
+| [2689-rearranging-fruits](https://github.com/AnkitShome/Leetcode/tree/master/2689-rearranging-fruits) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/AnkitShome/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3750-closest-equal-element-queries](https://github.com/AnkitShome/Leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AnkitShome/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AnkitShome/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/AnkitShome/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2505-number-of-good-paths](https://github.com/AnkitShome/Leetcode/tree/master/2505-number-of-good-paths) |
+| [2689-rearranging-fruits](https://github.com/AnkitShome/Leetcode/tree/master/2689-rearranging-fruits) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/AnkitShome/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AnkitShome/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3750-closest-equal-element-queries](https://github.com/AnkitShome/Leetcode/tree/master/3750-closest-equal-element-queries) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/AnkitShome/Leetcode/tree/master/0402-remove-k-digits) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AnkitShome/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AnkitShome/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2689-rearranging-fruits](https://github.com/AnkitShome/Leetcode/tree/master/2689-rearranging-fruits) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/AnkitShome/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AnkitShome/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AnkitShome/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AnkitShome/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AnkitShome/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2505-number-of-good-paths](https://github.com/AnkitShome/Leetcode/tree/master/2505-number-of-good-paths) |
+| [2689-rearranging-fruits](https://github.com/AnkitShome/Leetcode/tree/master/2689-rearranging-fruits) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/AnkitShome/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Design
 |  |
