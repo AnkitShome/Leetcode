@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/AnkitShome/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/AnkitShome/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/AnkitShome/Leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
+| [1983-maximum-population-year](https://github.com/AnkitShome/Leetcode/tree/master/1983-maximum-population-year) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnkitShome/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2227-sum-of-subarray-ranges](https://github.com/AnkitShome/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/AnkitShome/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1983-maximum-population-year](https://github.com/AnkitShome/Leetcode/tree/master/1983-maximum-population-year) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/AnkitShome/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AnkitShome/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AnkitShome/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/AnkitShome/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AnkitShome/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AnkitShome/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1983-maximum-population-year](https://github.com/AnkitShome/Leetcode/tree/master/1983-maximum-population-year) |
 | [2504-find-all-good-indices](https://github.com/AnkitShome/Leetcode/tree/master/2504-find-all-good-indices) |
 ## Topological Sort
 |  |
