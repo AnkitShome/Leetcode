@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AnkitShome/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1813-maximum-erasure-value](https://github.com/AnkitShome/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/AnkitShome/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/AnkitShome/Leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnkitShome/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2227-sum-of-subarray-ranges](https://github.com/AnkitShome/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/AnkitShome/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AnkitShome/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/AnkitShome/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/AnkitShome/Leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AnkitShome/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Counting
 |  |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/AnkitShome/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AnkitShome/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/AnkitShome/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/AnkitShome/Leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AnkitShome/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3750-closest-equal-element-queries](https://github.com/AnkitShome/Leetcode/tree/master/3750-closest-equal-element-queries) |
 ## Sorting
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/AnkitShome/Leetcode/tree/master/0721-accounts-merge) |
 | [1308-smallest-string-with-swaps](https://github.com/AnkitShome/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AnkitShome/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/AnkitShome/Leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AnkitShome/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2505-number-of-good-paths](https://github.com/AnkitShome/Leetcode/tree/master/2505-number-of-good-paths) |
 | [2689-rearranging-fruits](https://github.com/AnkitShome/Leetcode/tree/master/2689-rearranging-fruits) |
@@ -427,4 +431,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AnkitShome/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Line Sweep
+|  |
+| ------- |
+| [1977-minimum-interval-to-include-each-query](https://github.com/AnkitShome/Leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
