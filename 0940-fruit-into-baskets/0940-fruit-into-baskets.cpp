@@ -1,23 +1,23 @@
 class Solution {
 public:
     int totalFruit(vector<int>& fruits) {
-        int n=fruits.size();
-        int l=0,r=0;
-        
-        unordered_map<int,int> st;
-        
-        int ans=0;
+        const int MAX_TYPE = 100000;
+        vector<int> count(MAX_TYPE + 1, 0);
+        int l = 0, distinct = 0, maxLen = 0;
 
-        for(r=0;r<n;r++){
-            st[fruits[r]]++;
-            while(st.size()>2){
-                st[fruits[l]]--;
-                if(st[fruits[l]]==0)    st.erase(fruits[l]);
+        for (int r = 0; r < fruits.size(); r++) {
+            if (count[fruits[r]]++ == 0)
+                distinct++; 
+
+            while (distinct > 2) {
+                if (--count[fruits[l]] == 0)
+                    distinct--;  
                 l++;
             }
-            int present=r-l+1;
-            ans=max(ans,present);
+
+            maxLen = max(maxLen, r - l + 1);
         }
-        return ans;
+
+        return maxLen;
     }
 };
