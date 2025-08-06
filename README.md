@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/AnkitShome/Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/AnkitShome/Leetcode/tree/master/0542-01-matrix) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/AnkitShome/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [1121-partition-array-for-maximum-sum](https://github.com/AnkitShome/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1348-maximum-score-of-spliced-array](https://github.com/AnkitShome/Leetcode/tree/master/1348-maximum-score-of-spliced-array) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/AnkitShome/Leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AnkitShome/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/AnkitShome/Leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/AnkitShome/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/AnkitShome/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1121-partition-array-for-maximum-sum](https://github.com/AnkitShome/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1184-car-pooling](https://github.com/AnkitShome/Leetcode/tree/master/1184-car-pooling) |
 | [1308-smallest-string-with-swaps](https://github.com/AnkitShome/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1348-maximum-score-of-spliced-array](https://github.com/AnkitShome/Leetcode/tree/master/1348-maximum-score-of-spliced-array) |
