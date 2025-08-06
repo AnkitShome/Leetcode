@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3750-closest-equal-element-queries](https://github.com/AnkitShome/Leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AnkitShome/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/AnkitShome/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/AnkitShome/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3795-zero-array-transformation-iv](https://github.com/AnkitShome/Leetcode/tree/master/3795-zero-array-transformation-iv) |
 | [3831-find-x-value-of-array-i](https://github.com/AnkitShome/Leetcode/tree/master/3831-find-x-value-of-array-i) |
 | [3886-count-number-of-trapezoids-i](https://github.com/AnkitShome/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AnkitShome/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3750-closest-equal-element-queries](https://github.com/AnkitShome/Leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3790-fruits-into-baskets-ii](https://github.com/AnkitShome/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/AnkitShome/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/AnkitShome/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/AnkitShome/Leetcode/tree/master/0732-my-calendar-iii) |
 | [3790-fruits-into-baskets-ii](https://github.com/AnkitShome/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/AnkitShome/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -481,4 +484,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/AnkitShome/Leetcode/tree/master/0732-my-calendar-iii) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AnkitShome/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3790-fruits-into-baskets-ii](https://github.com/AnkitShome/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/AnkitShome/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
