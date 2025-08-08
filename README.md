@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnkitShome/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/AnkitShome/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/AnkitShome/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/AnkitShome/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AnkitShome/Leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/AnkitShome/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnkitShome/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnkitShome/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/AnkitShome/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/AnkitShome/Leetcode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/AnkitShome/Leetcode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/AnkitShome/Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/AnkitShome/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnkitShome/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/AnkitShome/Leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/AnkitShome/Leetcode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/AnkitShome/Leetcode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/AnkitShome/Leetcode/tree/master/0139-word-break) |
 | [0402-remove-k-digits](https://github.com/AnkitShome/Leetcode/tree/master/0402-remove-k-digits) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AnkitShome/Leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/AnkitShome/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AnkitShome/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/AnkitShome/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0721-accounts-merge](https://github.com/AnkitShome/Leetcode/tree/master/0721-accounts-merge) |
