@@ -4,7 +4,7 @@ public:
         unordered_map<string,vector<int>> mp;
         for(int i=0;i<strs.size();i++){
             string s=strs[i];
-            sort(s.begin(),s.end());
+            s=countSort(s);
             mp[s].push_back(i);
         }
         vector<vector<string>> res;
@@ -17,5 +17,17 @@ public:
             res.push_back(x);
         }
         return res;
+    }
+    private:
+    string countSort(string s){
+        vector<int> freq(26);
+        for(auto i:s){
+            freq[i-'a']++;
+        }
+        string x="";
+        for(auto i:freq){
+            x+=i+'0';
+        }
+        return x;
     }
 };
