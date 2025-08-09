@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AnkitShome/Leetcode/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/AnkitShome/Leetcode/tree/master/0231-power-of-two) |
 | [0464-can-i-win](https://github.com/AnkitShome/Leetcode/tree/master/0464-can-i-win) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/AnkitShome/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnkitShome/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AnkitShome/Leetcode/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/AnkitShome/Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/AnkitShome/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0464-can-i-win](https://github.com/AnkitShome/Leetcode/tree/master/0464-can-i-win) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AnkitShome/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/AnkitShome/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0231-power-of-two](https://github.com/AnkitShome/Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/AnkitShome/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/AnkitShome/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/AnkitShome/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
