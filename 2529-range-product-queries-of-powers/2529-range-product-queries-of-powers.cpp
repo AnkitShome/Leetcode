@@ -1,45 +1,49 @@
 class Solution {
 public:
-    const int MOD = 1e9 + 7;
+    const int mod = 1e9 + 7;
+    vector<long long> tree;
+    vector<int> arr;
+    int m;
 
-    long long modPow(long long base, long long exp, long long mod) {
-        long long res = 1;
-        while (exp > 0) {
-            if (exp & 1) res = (res * base) % mod;
-            base = (base * base) % mod;
-            exp >>= 1;
+    void build(int node,int start,int end){
+        if(start==end){
+            tree[node]=arr[start]%mod;
+            return;
         }
-        return res;
+        int mid=(start+end)/2;
+        build(2*node,start,mid);
+        build(2*node+1,mid+1,end);
+        tree[node]=(tree[2*node]%mod*tree[2*node+1]%mod)%mod;
     }
 
-    long long modInverse(long long a, long long mod) {
-        return modPow(a, mod - 2, mod);
+    long long query(int node,int l,int r,int start,int end){
+        if(l>end or r<start)    return 1;
+
+        if(start>=l and end<=r) return tree[node];
+
+        int mid=(start+end)/2;
+        long long left=query(2*node,l,r,start,mid);
+        long long right=query(2*node+1,l,r,mid+1,end);
+        return (left%mod*right%mod)%mod;
     }
 
     vector<int> productQueries(int n, vector<vector<int>>& queries) {
-        vector<int> arr;
-        
         for (int i = 31; i >= 0; i--) {
             if (n & (1 << i)) {
                 arr.push_back(1 << i);
             }
         }
+        sort(arr.begin(),arr.end());
+        m=arr.size();
+        tree.assign(4*m,1);
 
-        sort(arr.begin(), arr.end());
-        int m = arr.size();
-        
-        vector<long long> pre(m + 1, 1);
-        for (int i = 0; i < m; i++) {
-            pre[i + 1] = (pre[i] * arr[i]) % MOD;
-        }
+        build(1,0,m-1);
 
         vector<int> ans;
-        for (auto &q : queries) {
-            int l = q[0], r = q[1];
-            long long product = (pre[r + 1] * modInverse(pre[l], MOD)) % MOD;
-            ans.push_back(product);
+        for(auto q:queries){
+            int l=q[0],r=q[1];
+            ans.push_back((int)query(1,l,r,0,m-1));
         }
-
         return ans;
     }
 };
