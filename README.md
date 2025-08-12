@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/AnkitShome/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2397-count-number-of-ways-to-place-houses](https://github.com/AnkitShome/Leetcode/tree/master/2397-count-number-of-ways-to-place-houses) |
 | [2504-find-all-good-indices](https://github.com/AnkitShome/Leetcode/tree/master/2504-find-all-good-indices) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/AnkitShome/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/AnkitShome/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/AnkitShome/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3795-zero-array-transformation-iv](https://github.com/AnkitShome/Leetcode/tree/master/3795-zero-array-transformation-iv) |
