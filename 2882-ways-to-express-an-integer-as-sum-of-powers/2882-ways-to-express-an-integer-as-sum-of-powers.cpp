@@ -24,10 +24,26 @@ public:
     int numberOfWays(int n, int x) {
         N=n;
         p=x;
-        memset(dp,-1,sizeof(dp));
+        memset(dp,0,sizeof(dp));
 
-        int ans= f(1,n);
+        // int ans= f(1,n);
 
-        return ans;
+        for(int ind=0;ind<=n+1;ind++){
+            dp[ind][0]=1;
+        }
+
+        for(int ind=n;ind>=1;ind--){
+            for(int s=n;s>=0;s--){
+                long long skip=dp[ind+1][s];
+                long long take=0;
+                long long power=pow(ind,x);
+                if(s>=power)    take=dp[ind+1][s-power];
+                dp[ind][s]=(take+skip)%MOD;
+            }
+        }
+
+        return dp[1][n];
+
+        // return ans;
     }
 };
