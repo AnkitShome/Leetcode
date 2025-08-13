@@ -12,7 +12,7 @@ public:
             return ans;
         }
 
-        vector<string> res;
+        if(dp.count(start)) return dp[start];
         
         for(int end=start+1;end<=n;end++){
             string temp=s.substr(start,end-start);
@@ -26,7 +26,7 @@ public:
                 }
             }
         }
-        return ans;
+        return dp[start]=ans;
     }
 
     vector<string> wordBreak(string s, vector<string>& wordDict) {
