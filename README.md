@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/AnkitShome/Leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/AnkitShome/Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/AnkitShome/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0326-power-of-three](https://github.com/AnkitShome/Leetcode/tree/master/0326-power-of-three) |
 | [0464-can-i-win](https://github.com/AnkitShome/Leetcode/tree/master/0464-can-i-win) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AnkitShome/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AnkitShome/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/AnkitShome/Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/AnkitShome/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/AnkitShome/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/AnkitShome/Leetcode/tree/master/0326-power-of-three) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/AnkitShome/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Database
 |  |
