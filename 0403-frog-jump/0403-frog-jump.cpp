@@ -1,42 +1,39 @@
 class Solution {
 public:
-    
-    int n;
-    int dp[2005][2005];
+    bool canCross(vector<int>& stones) {
+        int n = stones.size();
 
-    bool f(int ind,int jump,vector<int>& stones){
-        if(ind==n-1)  return true;
+        // Quick fail check
+        if (stones[1] != 1) return false;
 
-        bool possible=0;
+        // Map stone position → index
+        unordered_map<int, int> posIndex;
+        for (int i = 0; i < n; i++) posIndex[stones[i]] = i;
 
-        if(dp[ind][jump]!=-1)   return dp[ind][jump];
+        // dp[i][jump] = true if we can reach stone i with a jump of length 'jump'
+        static bool dp[2005][2005];
+        memset(dp, 0, sizeof(dp));
 
-        for(int j=jump-1;j<=jump+1;j++){
-            if(j<=0)    continue;
-            int it=lower_bound(stones.begin(),stones.end(),stones[ind]+j)-stones.begin();
-            if(it==n)   continue;
-            if(stones[it]==stones[ind]+j){
-                bool can=f(it,j,stones);
-                possible|=can;
+        dp[0][0] = true; // start at stone 0, jump = 0
+
+        for (int ind = 0; ind < n; ind++) {
+            for (int jump = 0; jump <= n; jump++) {
+                if (!dp[ind][jump]) continue;
+                for (int nextJump = jump - 1; nextJump <= jump + 1; nextJump++) {
+                    if (nextJump <= 0) continue; // no backward or zero jumps
+                    int nextPos = stones[ind] + nextJump;
+                    if (posIndex.count(nextPos)) {
+                        int nextIndex = posIndex[nextPos];
+                        dp[nextIndex][nextJump] = true;
+                    }
+                }
             }
         }
 
-        return dp[ind][jump]=possible;
-    }
-
-    bool canCross(vector<int>& stones) {
-        n=stones.size();
-        if(stones[1]-stones[0]>1)   return false;
-        memset(dp,-1,sizeof(dp));
-        return f(1,1,stones);
+        // If we can reach the last stone with any jump size
+        for (int jump = 0; jump <= n; jump++) {
+            if (dp[n-1][jump]) return true;
+        }
+        return false;
     }
 };
-
-// 0 1 2 3 4 5 6  7
-// 0 1 3 5 6 8 12 17
-            //6->8 using 2 steps    
-
-            //ind=5 or stones[ind]=8 using jump=2
-            //it=low(,j)  j=1,2,3
-            //it=6 sontes[it]!=stones[ind]+j
-
