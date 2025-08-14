@@ -4,7 +4,7 @@ public:
         int n=num.size();
         int thirdLastIndex=n-2;
 
-        priority_queue<string> pq;
+        int arr[10];
 
         for(int i=0;i<thirdLastIndex;i++){
             string temp=num.substr(i,3);
@@ -21,12 +21,24 @@ public:
             
             if(!fine)   continue;
 
-            pq.push(temp);
+            int digit=first-'0';
+            arr[digit]=1;
         }
 
-        if(!pq.size())  return "";
+        int digit=-1;
 
-        string largest=pq.top();
-        return largest;
+        for(int i=9;i>=0;i--){
+            if(arr[i]){
+                digit=i;break;
+            }
+        }
+
+        if(digit==-1)   return "";
+
+        string ans="";
+        for(int i=0;i<3;i++){
+            ans+=(digit+'0');
+        }
+        return ans;
     }
 };
