@@ -51,15 +51,13 @@ public:
         };
 
         vector<pair<int, int>> dirs = {{-1,0}, {1,0}, {0,-1}, {0,1}};
-        vector<vector<int>> vis(n, vector<int>(m, 0));
         DSU dsu(n * m);
 
         vector<pair<int,int>> zero;
 
         for (int x = 0; x < n; x++) {
             for (int y = 0; y < m; y++) {
-                if (!vis[x][y] && grid[x][y] == 1) {
-                    vis[x][y]=1;
+                if (grid[x][y] == 1) {
                     for(auto [dx,dy]:dirs){
                         int nx=x+dx;
                         int ny=y+dy;
