@@ -43,42 +43,37 @@ public:
     }
 
     int swimInWater(vector<vector<int>>& grid) {
-        int n=grid.size();
-        int m=grid[0].size();
-        unordered_map<int,vector<pair<int,int>>> adj;
-        vector<pair<int,int>> dirs={{-1,0},{1,0},{0,-1},{0,1}};
-        
-        int max_time=0;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                int height=grid[i][j];
-                adj[height].push_back({i,j});
-                max_time=max(max_time,height);
-            }
+    int n = grid.size(), m = grid[0].size();
+    auto id = [&](int i, int j) { return i * m + j; };
+    vector<pair<int,pair<int,int>>> cells;
+
+    for (int i = 0; i < n; i++) {
+        for (int j = 0; j < m; j++) {
+            cells.push_back({grid[i][j], {i, j}});
         }
-
-        auto id=[&](int i,int j){
-            return i*m+j;
-        };
-
-        DSU dsu(n*m);
-
-        int time=0;
-        while(time<max_time){
-            if(adj.find(time)==adj.end()){time++;continue;}
-            for(auto [x,y]:adj[time]){
-                for(auto [dx,dy]:dirs){
-                    int nx=x+dx;
-                    int ny=y+dy;
-                    if(!isValid(nx,ny,n,m)) continue;
-                    if(grid[nx][ny]>time)   continue;
-                    dsu.unite(id(x,y),id(nx,ny));
-                }
-            }
-            if(dsu.couple(id(0,0),id(n-1,m-1))) return time;
-            time++;
-        }
-
-        return max_time;
     }
+
+    sort(cells.begin(), cells.end());
+
+    DSU dsu(n * m);
+    vector<pair<int,int>> dirs = {{-1,0},{1,0},{0,-1},{0,1}};
+    vector<vector<bool>> active(n, vector<bool>(m, false));
+
+    for (auto &[h, cell] : cells) {
+        auto [x, y] = cell;
+        active[x][y] = true;
+        for (auto [dx, dy] : dirs) {
+            int nx = x + dx, ny = y + dy;
+            if (nx < 0 || ny < 0 || nx >= n || ny >= m) continue;
+            if (active[nx][ny]) {
+                dsu.unite(id(x,y), id(nx,ny));
+            }
+        }
+        if (dsu.couple(id(0,0), id(n-1,m-1))) {
+            return h; 
+        }
+    }
+    return -1; 
+}
+
 };
