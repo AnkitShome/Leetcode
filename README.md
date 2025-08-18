@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/AnkitShome/Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/AnkitShome/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/AnkitShome/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0679-24-game](https://github.com/AnkitShome/Leetcode/tree/master/0679-24-game) |
 | [0721-accounts-merge](https://github.com/AnkitShome/Leetcode/tree/master/0721-accounts-merge) |
 | [0731-my-calendar-ii](https://github.com/AnkitShome/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/AnkitShome/Leetcode/tree/master/0735-asteroid-collision) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/AnkitShome/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AnkitShome/Leetcode/tree/master/0342-power-of-four) |
 | [0464-can-i-win](https://github.com/AnkitShome/Leetcode/tree/master/0464-can-i-win) |
+| [0679-24-game](https://github.com/AnkitShome/Leetcode/tree/master/0679-24-game) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AnkitShome/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AnkitShome/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/AnkitShome/Leetcode/tree/master/1448-maximum-69-number) |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/AnkitShome/Leetcode/tree/master/0022-generate-parentheses) |
 | [0140-word-break-ii](https://github.com/AnkitShome/Leetcode/tree/master/0140-word-break-ii) |
+| [0679-24-game](https://github.com/AnkitShome/Leetcode/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnkitShome/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Divide and Conquer
 |  |
