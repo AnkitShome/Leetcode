@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/AnkitShome/Leetcode/tree/master/0472-concatenated-words) |
 | [0721-accounts-merge](https://github.com/AnkitShome/Leetcode/tree/master/0721-accounts-merge) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/AnkitShome/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/AnkitShome/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1308-smallest-string-with-swaps](https://github.com/AnkitShome/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/AnkitShome/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AnkitShome/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/AnkitShome/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/AnkitShome/Leetcode/tree/master/0735-asteroid-collision) |
 | [0883-car-fleet](https://github.com/AnkitShome/Leetcode/tree/master/0883-car-fleet) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/AnkitShome/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/AnkitShome/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AnkitShome/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/AnkitShome/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/AnkitShome/Leetcode/tree/master/0402-remove-k-digits) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/AnkitShome/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1448-maximum-69-number](https://github.com/AnkitShome/Leetcode/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AnkitShome/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AnkitShome/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AnkitShome/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AnkitShome/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0883-car-fleet](https://github.com/AnkitShome/Leetcode/tree/master/0883-car-fleet) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/AnkitShome/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/AnkitShome/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2227-sum-of-subarray-ranges](https://github.com/AnkitShome/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Binary Search
