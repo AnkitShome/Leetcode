@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-shortest-path-visiting-all-nodes](https://github.com/AnkitShome/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1121-partition-array-for-maximum-sum](https://github.com/AnkitShome/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1348-maximum-score-of-spliced-array](https://github.com/AnkitShome/Leetcode/tree/master/1348-maximum-score-of-spliced-array) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/AnkitShome/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/AnkitShome/Leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AnkitShome/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/AnkitShome/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/AnkitShome/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1348-maximum-score-of-spliced-array](https://github.com/AnkitShome/Leetcode/tree/master/1348-maximum-score-of-spliced-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AnkitShome/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/AnkitShome/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AnkitShome/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AnkitShome/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/AnkitShome/Leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/AnkitShome/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/AnkitShome/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AnkitShome/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/AnkitShome/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AnkitShome/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/AnkitShome/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Hash Table
