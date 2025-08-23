@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/AnkitShome/Leetcode/tree/master/0626-exchange-seats) |
 | [1179-game-play-analysis-i](https://github.com/AnkitShome/Leetcode/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/AnkitShome/Leetcode/tree/master/1258-article-views-i) |
+| [1317-monthly-transactions-i](https://github.com/AnkitShome/Leetcode/tree/master/1317-monthly-transactions-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/AnkitShome/Leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1390-average-selling-price](https://github.com/AnkitShome/Leetcode/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/AnkitShome/Leetcode/tree/master/1415-students-and-examinations) |
