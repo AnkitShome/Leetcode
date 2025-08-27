@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AnkitShome/Leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/AnkitShome/Leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/AnkitShome/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/AnkitShome/Leetcode/tree/master/0342-power-of-four) |
 | [0464-can-i-win](https://github.com/AnkitShome/Leetcode/tree/master/0464-can-i-win) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AnkitShome/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AnkitShome/Leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/AnkitShome/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/AnkitShome/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnkitShome/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/AnkitShome/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnkitShome/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AnkitShome/Leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/AnkitShome/Leetcode/tree/master/0078-subsets) |
 | [0140-word-break-ii](https://github.com/AnkitShome/Leetcode/tree/master/0140-word-break-ii) |
 | [0679-24-game](https://github.com/AnkitShome/Leetcode/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnkitShome/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
