@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/AnkitShome/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/AnkitShome/Leetcode/tree/master/0854-making-a-large-island) |
 | [0883-car-fleet](https://github.com/AnkitShome/Leetcode/tree/master/0883-car-fleet) |
+| [0907-koko-eating-bananas](https://github.com/AnkitShome/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/AnkitShome/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0960-minimize-malware-spread](https://github.com/AnkitShome/Leetcode/tree/master/0960-minimize-malware-spread) |
 | [0966-binary-subarrays-with-sum](https://github.com/AnkitShome/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/AnkitShome/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/AnkitShome/Leetcode/tree/master/0732-my-calendar-iii) |
 | [0794-swim-in-rising-water](https://github.com/AnkitShome/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [0907-koko-eating-bananas](https://github.com/AnkitShome/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/AnkitShome/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AnkitShome/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/AnkitShome/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
