@@ -21,6 +21,7 @@ public:
                         }
                         count+=(left%mod*right%mod)%mod;
                         l++;
+                        r--;
                     }
                     else{
                         int k=(r-l+1);
