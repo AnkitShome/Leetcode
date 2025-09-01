@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/AnkitShome/Leetcode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/AnkitShome/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/AnkitShome/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0959-3sum-with-multiplicity](https://github.com/AnkitShome/Leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [0960-minimize-malware-spread](https://github.com/AnkitShome/Leetcode/tree/master/0960-minimize-malware-spread) |
 | [0966-binary-subarrays-with-sum](https://github.com/AnkitShome/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1036-rotting-oranges](https://github.com/AnkitShome/Leetcode/tree/master/1036-rotting-oranges) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/AnkitShome/Leetcode/tree/master/0721-accounts-merge) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AnkitShome/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/AnkitShome/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0959-3sum-with-multiplicity](https://github.com/AnkitShome/Leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [0960-minimize-malware-spread](https://github.com/AnkitShome/Leetcode/tree/master/0960-minimize-malware-spread) |
 | [0966-binary-subarrays-with-sum](https://github.com/AnkitShome/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AnkitShome/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/AnkitShome/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/AnkitShome/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0853-most-profit-assigning-work](https://github.com/AnkitShome/Leetcode/tree/master/0853-most-profit-assigning-work) |
+| [0959-3sum-with-multiplicity](https://github.com/AnkitShome/Leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AnkitShome/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/AnkitShome/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AnkitShome/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0959-3sum-with-multiplicity](https://github.com/AnkitShome/Leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [1983-maximum-population-year](https://github.com/AnkitShome/Leetcode/tree/master/1983-maximum-population-year) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/AnkitShome/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AnkitShome/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -568,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/AnkitShome/Leetcode/tree/master/0721-accounts-merge) |
 | [0853-most-profit-assigning-work](https://github.com/AnkitShome/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0883-car-fleet](https://github.com/AnkitShome/Leetcode/tree/master/0883-car-fleet) |
+| [0959-3sum-with-multiplicity](https://github.com/AnkitShome/Leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AnkitShome/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1184-car-pooling](https://github.com/AnkitShome/Leetcode/tree/master/1184-car-pooling) |
 | [1308-smallest-string-with-swaps](https://github.com/AnkitShome/Leetcode/tree/master/1308-smallest-string-with-swaps) |
