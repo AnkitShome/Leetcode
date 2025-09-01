@@ -10,18 +10,17 @@ public:
         sort(difficulty.begin(),difficulty.end());
         sort(rv.begin(),rv.end());
 
-        vector<int> prefix(m+1);
-        for(int i=1;i<=m;i++){
-            prefix[i]=max(prefix[i-1],rv[i-1].second);
-        }
-
         int ans=0;
+        sort(worker.begin(),worker.end());
 
+        int j=0;
+        int best=0;
         for(int i=0;i<n;i++){
-            int it=upper_bound(difficulty.begin(),difficulty.end(),worker[i])-difficulty.begin();
-            it--;
-            if(it<0)    continue;
-            ans+=prefix[it+1];
+            while(j<m and worker[i]>=rv[j].first){
+                best=max(best,rv[j].second);
+                j++;
+            }
+            ans+=best;
         }
         return ans;
     }
