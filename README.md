@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AnkitShome/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AnkitShome/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/AnkitShome/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [1038-number-of-squareful-arrays](https://github.com/AnkitShome/Leetcode/tree/master/1038-number-of-squareful-arrays) |
 | [1121-partition-array-for-maximum-sum](https://github.com/AnkitShome/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1348-maximum-score-of-spliced-array](https://github.com/AnkitShome/Leetcode/tree/master/1348-maximum-score-of-spliced-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AnkitShome/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/AnkitShome/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AnkitShome/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/AnkitShome/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [1038-number-of-squareful-arrays](https://github.com/AnkitShome/Leetcode/tree/master/1038-number-of-squareful-arrays) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/AnkitShome/Leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnkitShome/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/AnkitShome/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/AnkitShome/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AnkitShome/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/AnkitShome/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [1038-number-of-squareful-arrays](https://github.com/AnkitShome/Leetcode/tree/master/1038-number-of-squareful-arrays) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/AnkitShome/Leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Array
 |  |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-minimize-malware-spread](https://github.com/AnkitShome/Leetcode/tree/master/0960-minimize-malware-spread) |
 | [0966-binary-subarrays-with-sum](https://github.com/AnkitShome/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1036-rotting-oranges](https://github.com/AnkitShome/Leetcode/tree/master/1036-rotting-oranges) |
+| [1038-number-of-squareful-arrays](https://github.com/AnkitShome/Leetcode/tree/master/1038-number-of-squareful-arrays) |
 | [1046-max-consecutive-ones-iii](https://github.com/AnkitShome/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/AnkitShome/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1121-partition-array-for-maximum-sum](https://github.com/AnkitShome/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/AnkitShome/Leetcode/tree/master/0342-power-of-four) |
 | [0464-can-i-win](https://github.com/AnkitShome/Leetcode/tree/master/0464-can-i-win) |
 | [0679-24-game](https://github.com/AnkitShome/Leetcode/tree/master/0679-24-game) |
+| [1038-number-of-squareful-arrays](https://github.com/AnkitShome/Leetcode/tree/master/1038-number-of-squareful-arrays) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AnkitShome/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AnkitShome/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/AnkitShome/Leetcode/tree/master/1448-maximum-69-number) |
@@ -271,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-minimize-malware-spread](https://github.com/AnkitShome/Leetcode/tree/master/0960-minimize-malware-spread) |
 | [0966-binary-subarrays-with-sum](https://github.com/AnkitShome/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AnkitShome/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1038-number-of-squareful-arrays](https://github.com/AnkitShome/Leetcode/tree/master/1038-number-of-squareful-arrays) |
 | [1308-smallest-string-with-swaps](https://github.com/AnkitShome/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AnkitShome/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AnkitShome/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -661,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/AnkitShome/Leetcode/tree/master/0679-24-game) |
 | [0691-stickers-to-spell-word](https://github.com/AnkitShome/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AnkitShome/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1038-number-of-squareful-arrays](https://github.com/AnkitShome/Leetcode/tree/master/1038-number-of-squareful-arrays) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/AnkitShome/Leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnkitShome/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Divide and Conquer
