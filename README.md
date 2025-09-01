@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/AnkitShome/Leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AnkitShome/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/AnkitShome/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/AnkitShome/Leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2397-count-number-of-ways-to-place-houses](https://github.com/AnkitShome/Leetcode/tree/master/2397-count-number-of-ways-to-place-houses) |
 | [2504-find-all-good-indices](https://github.com/AnkitShome/Leetcode/tree/master/2504-find-all-good-indices) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/AnkitShome/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/AnkitShome/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AnkitShome/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/AnkitShome/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/AnkitShome/Leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnkitShome/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/AnkitShome/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AnkitShome/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/AnkitShome/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AnkitShome/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/AnkitShome/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/AnkitShome/Leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Array
 |  |
 | ------- |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1918-maximum-score-of-a-good-subarray](https://github.com/AnkitShome/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/AnkitShome/Leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1983-maximum-population-year](https://github.com/AnkitShome/Leetcode/tree/master/1983-maximum-population-year) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/AnkitShome/Leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnkitShome/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2227-sum-of-subarray-ranges](https://github.com/AnkitShome/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AnkitShome/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -657,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/AnkitShome/Leetcode/tree/master/0679-24-game) |
 | [0691-stickers-to-spell-word](https://github.com/AnkitShome/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AnkitShome/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/AnkitShome/Leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnkitShome/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Divide and Conquer
 |  |
