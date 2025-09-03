@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AnkitShome/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AnkitShome/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnkitShome/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/AnkitShome/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AnkitShome/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/AnkitShome/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/AnkitShome/Leetcode/tree/master/0547-number-of-provinces) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/AnkitShome/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AnkitShome/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/AnkitShome/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AnkitShome/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/AnkitShome/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/AnkitShome/Leetcode/tree/master/0547-number-of-provinces) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AnkitShome/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AnkitShome/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnkitShome/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/AnkitShome/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AnkitShome/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/AnkitShome/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0472-concatenated-words](https://github.com/AnkitShome/Leetcode/tree/master/0472-concatenated-words) |
@@ -686,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/AnkitShome/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AnkitShome/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/AnkitShome/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AnkitShome/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Geometry
 |  |
