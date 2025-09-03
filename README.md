@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/AnkitShome/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0863-sum-of-distances-in-tree](https://github.com/AnkitShome/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/AnkitShome/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [0881-loud-and-rich](https://github.com/AnkitShome/Leetcode/tree/master/0881-loud-and-rich) |
 | [0960-minimize-malware-spread](https://github.com/AnkitShome/Leetcode/tree/master/0960-minimize-malware-spread) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AnkitShome/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/AnkitShome/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/AnkitShome/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0853-most-profit-assigning-work](https://github.com/AnkitShome/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0854-making-a-large-island](https://github.com/AnkitShome/Leetcode/tree/master/0854-making-a-large-island) |
+| [0881-loud-and-rich](https://github.com/AnkitShome/Leetcode/tree/master/0881-loud-and-rich) |
 | [0883-car-fleet](https://github.com/AnkitShome/Leetcode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/AnkitShome/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/AnkitShome/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/AnkitShome/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0854-making-a-large-island](https://github.com/AnkitShome/Leetcode/tree/master/0854-making-a-large-island) |
 | [0863-sum-of-distances-in-tree](https://github.com/AnkitShome/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
+| [0881-loud-and-rich](https://github.com/AnkitShome/Leetcode/tree/master/0881-loud-and-rich) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AnkitShome/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0960-minimize-malware-spread](https://github.com/AnkitShome/Leetcode/tree/master/0960-minimize-malware-spread) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AnkitShome/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -695,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/AnkitShome/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/AnkitShome/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AnkitShome/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0881-loud-and-rich](https://github.com/AnkitShome/Leetcode/tree/master/0881-loud-and-rich) |
 ## Geometry
 |  |
 | ------- |
