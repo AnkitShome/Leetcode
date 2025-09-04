@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/AnkitShome/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/AnkitShome/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AnkitShome/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3830-find-closest-person](https://github.com/AnkitShome/Leetcode/tree/master/3830-find-closest-person) |
 | [3831-find-x-value-of-array-i](https://github.com/AnkitShome/Leetcode/tree/master/3831-find-x-value-of-array-i) |
 | [3886-count-number-of-trapezoids-i](https://github.com/AnkitShome/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
 ## Matrix
