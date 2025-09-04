@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/AnkitShome/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/AnkitShome/Leetcode/tree/master/2689-rearranging-fruits) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/AnkitShome/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AnkitShome/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/AnkitShome/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/AnkitShome/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3750-closest-equal-element-queries](https://github.com/AnkitShome/Leetcode/tree/master/3750-closest-equal-element-queries) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/AnkitShome/Leetcode/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/AnkitShome/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/AnkitShome/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AnkitShome/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/AnkitShome/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AnkitShome/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3830-find-closest-person](https://github.com/AnkitShome/Leetcode/tree/master/3830-find-closest-person) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AnkitShome/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/AnkitShome/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AnkitShome/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AnkitShome/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Union Find
 |  |
@@ -618,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2505-number-of-good-paths](https://github.com/AnkitShome/Leetcode/tree/master/2505-number-of-good-paths) |
 | [2689-rearranging-fruits](https://github.com/AnkitShome/Leetcode/tree/master/2689-rearranging-fruits) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/AnkitShome/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AnkitShome/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/AnkitShome/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Design
 |  |
@@ -715,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/AnkitShome/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AnkitShome/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3886-count-number-of-trapezoids-i](https://github.com/AnkitShome/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
 ## Backtracking
 |  |
