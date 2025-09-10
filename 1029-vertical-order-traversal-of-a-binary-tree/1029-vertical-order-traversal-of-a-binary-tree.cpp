@@ -11,26 +11,29 @@
  */
 class Solution {
 public:
-    int grid[1005][2005];
-
     map<int,multiset<pair<int,int>>> mp;
-
-    void dfs(TreeNode* root,int x,int y){
-        if(!root)   return;
-        mp[y].insert({x,root->val});
-        dfs(root->left,x+1,y-1);
-        dfs(root->right,x+1,y+1);
-    }
     vector<vector<int>> verticalTraversal(TreeNode* root) {
-        memset(grid,-1,sizeof(grid));
-        dfs(root,0,0);
+        queue<tuple<TreeNode*,int,int>> q;
+        q.push({root,0,0});
+
+        while(!q.empty()){
+            auto [node,level,col]=q.front();
+            q.pop();
+
+            mp[col].insert({level,node->val});
+
+            if(node->left)  q.push({node->left,level+1,col-1});
+            if(node->right) q.push({node->right,level+1,col+1});
+        }
+
         vector<vector<int>> ans;
-        for(auto [i,v]:mp){
-            vector<int> cur;
-            for(auto [x,j]:v){
-                cur.push_back(j);
+
+        for(auto [x,y]:mp){
+            vector<int> res;
+            for(auto [i,j]:y){
+                res.push_back(j);
             }
-            ans.push_back(cur);
+            ans.push_back(res);
         }
         return ans;
     }
