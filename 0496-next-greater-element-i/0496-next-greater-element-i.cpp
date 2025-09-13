@@ -13,13 +13,21 @@ public:
 
         vector<int> NGE(n,-1);
 
-        for(int i=0;i<n;i++){
-            while(!st.empty() and nums2[st.top()]<nums2[i]){
-                NGE[st.top()]=i;
+        for(int i=n-1;i>=0;i--){
+            while(!st.empty() and nums2[st.top()]<=nums2[i]){
                 st.pop();
             }
+            if(!st.empty()) NGE[i]=st.top();
             st.push(i);
         }
+
+        // for(int i=0;i<n;i++){
+        //     while(!st.empty() and nums2[st.top()]<nums2[i]){
+        //         NGE[st.top()]=i;
+        //         st.pop();
+        //     }
+        //     st.push(i);
+        // }
         vector<int> ans;
         
         for(int i=0;i<nums1.size();i++){
