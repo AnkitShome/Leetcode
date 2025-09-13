@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/AnkitShome/Leetcode/tree/master/0403-frog-jump) |
 | [0454-4sum-ii](https://github.com/AnkitShome/Leetcode/tree/master/0454-4sum-ii) |
 | [0472-concatenated-words](https://github.com/AnkitShome/Leetcode/tree/master/0472-concatenated-words) |
+| [0485-max-consecutive-ones](https://github.com/AnkitShome/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/AnkitShome/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AnkitShome/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/AnkitShome/Leetcode/tree/master/0518-coin-change-ii) |
