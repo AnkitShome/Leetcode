@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/AnkitShome/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AnkitShome/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/AnkitShome/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AnkitShome/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/AnkitShome/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3750-closest-equal-element-queries](https://github.com/AnkitShome/Leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AnkitShome/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AnkitShome/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/AnkitShome/Leetcode/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AnkitShome/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AnkitShome/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AnkitShome/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Enumeration
 |  |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/AnkitShome/Leetcode/tree/master/2689-rearranging-fruits) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/AnkitShome/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AnkitShome/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AnkitShome/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AnkitShome/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Heap (Priority Queue)
 |  |
@@ -607,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1977-minimum-interval-to-include-each-query](https://github.com/AnkitShome/Leetcode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AnkitShome/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AnkitShome/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AnkitShome/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3750-closest-equal-element-queries](https://github.com/AnkitShome/Leetcode/tree/master/3750-closest-equal-element-queries) |
 | [3790-fruits-into-baskets-ii](https://github.com/AnkitShome/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/AnkitShome/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
@@ -636,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/AnkitShome/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AnkitShome/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/AnkitShome/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AnkitShome/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Design
 |  |
 | ------- |
